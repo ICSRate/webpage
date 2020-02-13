@@ -25,4 +25,4 @@
   3. Within a few min the [site](https://icsrate.github.io/webpage/) should be updated
 
 
-*FYI, if you are running Windows, Windows Powershell should work fine for all these commands as long as node.js is up to date on your machine, otherwise Terminal is fine for Macs/Linux
+*FYI, if you are running Windows, Windows Powershell should work fine for all these commands as long as node.js is up to date on your machine, otherwise Terminal is fine for Macs/Linux*
