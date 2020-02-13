@@ -23,3 +23,6 @@
   1. Switch branch to master `git checkout master` (do not deploy from any other branch, make sure your changes get merged to master before you deploy)
   2. Run `npm run deploy`
   3. Within a few min the [site](https://icsrate.github.io/webpage/) should be updated
+
+
+*FYI, if you are running Windows, Windows Powershell should work fine for all these commands as long as node.js is up to date on your machine, otherwise Terminal is fine for Macs/Linux
