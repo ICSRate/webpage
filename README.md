@@ -14,6 +14,7 @@
   6.  Create a pull request to merge changes to master 
   
   Don't make changes directly to master!! (changes to the readme are ok)
+  Pull requests require at least one other person to approve a merge, but you can force a merge with admin privileges if really necessary.
   
 ## Writing/testing code locally
   1.  Make sure you are in the `ics-rate` directory
