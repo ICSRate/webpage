@@ -17,8 +17,9 @@
   Pull requests require at least one other person to approve a merge, but you can force a merge with admin privileges if really necessary.
   
 ## Writing/testing code locally
-  1.  Make sure you are in the `ics-rate` directory
+  1.  Make sure you are in the `ics-rate` directory and on your personal branch (you can run `git branch` to check which branch you are on, run `git checkout <branch-name>` to switch to the branch you want
   2.  **Before writing code, make sure to run `git pull origin master` to make sure you are up to date with master**
+      <br>a.  Run `npm install` to install any new dependencies - you don't need to do this every time, but if you get an error with missing dependencies you can run this to resolve it
   3.  Changes are made in the `src` folder
   4.  To host your changes locally, run `npm run start`
   5.  When you are sure there are no errors in your code, push to remote and create a pull request
